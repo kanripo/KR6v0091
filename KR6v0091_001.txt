@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:42.578252
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:13
 #+TITLE: 《慧琳音義》與唐代大藏經
 #+PROPERTY: CBETA_ID W08n0071
 #+PROPERTY: ID KR6v0091
