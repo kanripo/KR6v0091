@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:42.578252
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:13
 #+TITLE: 《慧琳音義》與唐代大藏經
 #+PROPERTY: CBETA_ID W08n0071
 #+PROPERTY: ID KR6v0091
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 08, No. 071
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0091_W_001-0403a> 
 #+PROPERTY: JUAN 1
 ¶
-
- 《慧琳音義》與唐代大藏經¶
+《慧琳音義》與唐代大藏經¶
 ¶
 方廣錩¶
 ¶
